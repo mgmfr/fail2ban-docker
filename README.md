@@ -6,7 +6,7 @@ The root dir of fail2ban is considered to be /etc/fail2ban/
 
 Structure :
 - /etc/fail2ban/jail.d/custom-dms.conf
-- /etc/fail2ban/action.d/docker-traefik.conf
+- /etc/fail2ban/action.d/docker-traefik-action.conf
 - /etc/fail2ban/filter/custom-filter.conf
 
 ## TODO :
